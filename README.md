@@ -65,8 +65,8 @@ In order to run this project you need:
 ### Setup
 
 Clone this repository by using the command line :
-
-- `git clone https://github.com/AhmadiGu/hello-rails-react`
+- `git clone https://github.com/AhmadiGu/hello-react-front-end` and the backend
+- `git clone https://github.com/AhmadiGu/hello-rails-back-end`
 
 ### Install
 
